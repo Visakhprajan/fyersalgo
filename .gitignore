@@ -1,7 +1,5 @@
 venopenalgo
-.env
 openalgo.db
-.env
 .flaskenv
 *.pyc
 __pycache__/
@@ -23,8 +21,7 @@ config.ini
 *.tmp
 
 
-# Environments 
-.env 
+# Environments  
 .venv 
 env/ 
 venv/ 
